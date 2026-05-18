@@ -1,0 +1,10 @@
+{
+  "name": "school-checklist",
+  "version": "1.0.0",
+  "private": true,
+  "description": "เช็คของก่อนไปโรงเรียน — แอปรายการเตรียมของรายวัน",
+  "scripts": {
+    "start": "npx --yes serve . -p 3000",
+    "open": "start index.html"
+  }
+}
